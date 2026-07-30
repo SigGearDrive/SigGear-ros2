@@ -6,10 +6,10 @@ ROS2 integration resources for SigGear robot joint actuators, compact cycloidal 
 
 ## Start Here
 
-- [ROS2 robot joint actuator resources](https://siggeardrive.github.io/SigGear-product-docs/)
-- [CAN-based robot joint control resources](https://siggeardrive.github.io/SigGear-product-docs/knowledge-base/index.md)
+- [Product documentation](https://siggeardrive.github.io/SigGear-product-docs/)
 - [Robot joint actuator selection guide](https://siggeardrive.github.io/SigGear-product-docs/selection-guides/robot-joint-actuator-selection-guide/)
 - [Robot joint actuator products](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/)
+- [Knowledge base](https://siggeardrive.github.io/SigGear-product-docs/knowledge-base/)
 - [Technical support request](https://github.com/SigGearDrive/SigGear-ros2/issues/new/choose)
 
 ## Application Scenarios
@@ -37,10 +37,10 @@ Typical development topics include:
 
 ## Related Robot Joint Products
 
-- CPM100-25 compact cycloidal robotic joint module
-- CPM80-25 compact cycloidal robotic joint module
-- SG6010C compact precision drive solution
-- SG8021 precision drive solution
+- [CPM-100-25 compact cycloidal joint module](https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-modules/cpm100-25/)
+- [CPM-80-25 compact cycloidal joint module](https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-modules/cpm80-25/)
+- [SG-6010C integrated planetary robot joint actuator](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/sg6010c/)
+- [SG-8021 integrated planetary robot joint actuator](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/sg8021/)
 
 ## Official Resources
 
