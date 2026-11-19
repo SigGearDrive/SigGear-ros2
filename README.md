@@ -1,5 +1,3 @@
-Got a specific torque/backlash requirement? [Open an issue](https://github.com/SigGearDrive/SigGear-ros2/issues/new/choose) or contact us at [wangwanrong@siggear.com](mailto:wangwanrong@siggear.com) – our engineers will reply within 24 hours.
-
 # SigGear ROS2 Resources
 
 ROS2 integration resources for SigGear robot joint actuators, compact cycloidal robotic joint modules, CAN-based actuator control, and robotic drive system development.
@@ -23,6 +21,12 @@ SigGear ROS2 resources support:
 - Research robot platforms
 - CAN-based multi-actuator robotic systems
 - Compact automation systems using ROS2 control architecture
+
+## Custom Robot Joint Integration
+
+SigGear's public joint modules are reference platforms. Customer-specific projects may require a different mechanical interface, motor, encoder, driver, communication setup or production configuration.
+
+[Custom Robot Joint Development](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/robot-joint-actuator-development/) · [Start a Custom Transmission Review](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/start-with-your-problem/)
 
 ## Robot Joint Integration Topics
 
