@@ -49,11 +49,11 @@ Typical development topics include:
 ## Official Resources
 
 - Product documentation: https://siggeardrive.github.io/SigGear-product-docs/
-- CAD resources: https://github.com/SigGearDrive/SigGear-cad-models
+- STEP models: https://github.com/SigGearDrive/SigGear-cad-models
 - Robot joint SDK: https://github.com/SigGearDrive/SigGear-robot-joint-sdk
 
 ## Contact
 
-For ROS2 integration support, actuator samples, CAD files, datasheets, or custom robot joint drive solutions, contact SigGear:
+For ROS2 integration support, actuator samples, STEP files, datasheets, or custom robot joint drive solutions, contact SigGear:
 
 [wangwanrong@siggear.com](mailto:wangwanrong@siggear.com)
