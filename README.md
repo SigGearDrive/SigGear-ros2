@@ -8,7 +8,10 @@ ROS2 integration resources for SigGear robot joint actuators, compact cycloidal 
 - [Robot joint actuator selection guide](https://siggeardrive.github.io/SigGear-product-docs/selection-guides/robot-joint-actuator-selection-guide/)
 - [Robot joint actuator products](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/)
 - [Knowledge base](https://siggeardrive.github.io/SigGear-product-docs/knowledge-base/)
-- [Technical support request](https://github.com/SigGearDrive/SigGear-ros2/issues/new/choose)
+- [Private custom actuator engineering review](https://siggeardrive.github.io/SigGear-product-docs/request-cad-sample-quote/?path=joint_actuator)
+- [Report a public ROS2 issue](https://github.com/SigGearDrive/SigGear-ros2/issues/new)
+
+> **Confidential projects:** Do not upload customer drawings, STEP models, proprietary interfaces or NDA material to a public GitHub Issue. Use the private engineering review form or email for customer-specific actuator development.
 
 ## Application Scenarios
 
